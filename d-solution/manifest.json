@@ -1,5 +1,5 @@
 {
-  "name": "D-Solution",
+  "name": "XiaoZhi OSTB-3ST 2.4.0 - ESP32-S3",
   "version": "2.4.0",
   "new_install_prompt_erase": true,
   "builds": [
@@ -13,6 +13,14 @@
         {
           "path": "partition-table.bin",
           "offset": 32768
+        },
+        {
+          "path": "ota_data_initial.bin",
+          "offset": 53248
+        },
+        {
+          "path": "assets.bin",
+          "offset": 11141120
         },
         {
           "path": "xiaozhi.bin",
