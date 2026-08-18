@@ -1,6 +1,6 @@
 {
-  "name": "XiaoZhi OSTB-3ST 2.4.2 - ESP32-S3",
-  "version": "2.4.2",
+  "name": "XiaoZhi OSTB-3ST 2.4.2.1 - ESP32-S3",
+  "version": "2.4.2.1",
   "new_install_prompt_erase": true,
   "builds": [
     {
