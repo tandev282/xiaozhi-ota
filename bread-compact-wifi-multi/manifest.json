@@ -1,6 +1,6 @@
 {
-  "name": "Xiaozhi 2.4.2 - ESP32-S3 N16R8",
-  "version": "2.4.2",
+  "name": "Xiaozhi 2.5.0 - ESP32-S3 N16R8",
+  "version": "2.5.0",
   "new_install_prompt_erase": true,
   "builds": [
     {
