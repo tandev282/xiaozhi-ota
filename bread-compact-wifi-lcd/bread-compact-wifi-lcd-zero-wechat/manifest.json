@@ -1,6 +1,6 @@
 {
-  "name": "XiaoZhi 2.4.2.1 - OSTB-3ST",
-  "version": "2.4.2.1",
+  "name": "Xiaozhi 2.5.1 - ESP32-S3 Zero - WeChat",
+  "version": "2.5.1",
   "new_install_prompt_erase": true,
   "builds": [
     {
@@ -16,11 +16,11 @@
         },
         {
           "path": "ota_data_initial.bin",
-          "offset": 53248
+          "offset": 57344
         },
         {
-          "path": "assets.bin",
-          "offset": 11141120
+          "path": "assets-4m.bin",
+          "offset": 3866624
         },
         {
           "path": "xiaozhi.bin",
